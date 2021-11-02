@@ -21,3 +21,6 @@ Linda | mom | 4
 Tina | oldest | 5
 Gene | dancing queen | 1
 Louise | evil | 2
+
+![](.bobs burgers dishes.jpg)
+[Live Table Read](https://www.youtube.com/watch?v=7hSW_QQ1oWo)
